@@ -1,4 +1,4 @@
-# Movie_suggestion_NLP(Prototype)
+# Movie_suggestion_NLP(Prototype- Full Python Code)
 🎬 CineMatch: A TF-IDF Based Movie Recommendation System
 CineMatch is a content-based movie recommendation system that leverages TF-IDF vectorization to analyze movie metadata (such as titles, genres, plot descriptions, etc.) and recommends similar movies based on cosine similarity scores. It integrates seamlessly with a backend SQL database, dynamically fetching and updating movie data.
 
